@@ -14,7 +14,7 @@
   <img src="StudentPor.jpg" alt="Result Portal Dashboard" width="350"/>
   <img src="ResultPor.jpg" alt="Result Page" width="350"/>
   <img src="studentManage.jpg" alt="student list Page" width="350"/>
-  <img src="studentManage2.jpg" alt="Teacher Panel" width="350"/>
+  <img src="StudentManage2.jpg" alt="Teacher Panel" width="350"/>
 </p>
 
 ---
